@@ -1,0 +1,22 @@
+.mytable{
+	border: 2px solid black;
+	width: 100%
+}
+ .mytable tr,td{
+     padding:10px;
+	 border: 1px solid black;
+	 border-collapse: collapse;
+ }
+ .vl {
+    border-left: 6px solid green;
+    height: 500px;
+  }
+
+  .form-control{
+    background-color: antiquewhite;
+  }
+
+  .Nav_Tabs{
+    align-content: center;
+    position: bottom;
+  }
